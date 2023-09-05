@@ -1,3 +1,6 @@
+windows/
+web/
+linux/
 # Miscellaneous
 *.class
 *.log
