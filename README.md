@@ -1,4 +1,6 @@
 # Flutter-BizCard Apps
+<img src="./BizCard.PNG" width="90%">
+
 Description:
 
 Biz Card is the perfect digital business card solution for professionals and entrepreneurs looking to make a lasting impression. Say goodbye to outdated paper business cards and hello to a sleek, modern way of sharing your contact information and credentials.
