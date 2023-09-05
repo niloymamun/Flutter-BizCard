@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 
+// This is Main Method
 void main() {
   runApp(const MyApp());
 }
 
+// This is class
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -35,8 +37,8 @@ class Home extends StatelessWidget {
         child: Stack(
           alignment: Alignment.topCenter,
           children: [
-            _getCard(),
-            _getAvatar(),
+            _getCard(), // This is widget below code
+            _getAvatar(), // This is Biz Card image this widget work mainly image show
           ],
         ),
       ),
@@ -111,6 +113,7 @@ class Home extends StatelessWidget {
     );
   }
 
+// This is getAvatear  Widget
   Container _getAvatar() {
     return Container(
       width: 100,
